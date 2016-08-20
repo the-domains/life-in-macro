@@ -1,14 +1,14 @@
-layout_spectrum: 0.7218069606460631
-typography_spectrum: 0.14119757153093815
+layout_spectrum: 0.3586295184213668
+typography_spectrum: 0.2754404880106449
 color:
-  brandStrength: 0.8466295984108001
-  lightness: 0.5731419534422457
-  saturation: 0.863743454683572
-  rhythmicContrast: 0.37209973158314824
+  brandStrength: 0.21698307245969772
+  lightness: 0.22482952778227627
+  saturation: 0.6183526571840048
+  rhythmicContrast: 0.8612901950255036
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Life in Macro
